@@ -1,0 +1,23 @@
+{
+  "name": "north-editor",
+  "main": "./lib/north-editor",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/north-editor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "underscore": "^1.9.1"
+  },
+  "consumedServices": {
+    "platformioIDETerminal": {
+      "versions": {
+        "^1.1.0": "consumePlatformioIDETerminal"
+      }
+    }
+  }
+}

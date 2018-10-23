@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-n": "north-editor:new-project",
+    "ctrl-alt-p": "north-editor:ipython-terminal",
+    "ctrl-alt-s": "north-editor:open-simulator"
+  }
+}
