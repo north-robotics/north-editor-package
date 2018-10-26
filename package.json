@@ -1,10 +1,10 @@
 {
-  "name": "north-editor",
+  "name": "north-editor-package",
   "main": "./lib/north-editor",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Adds functionality needed to create and work on new ada_core and north_c9 projects",
   "keywords": [],
-  "repository": "https://github.com/atom/north-editor",
+  "repository": "https://github.com/v13inc/north-editor-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
