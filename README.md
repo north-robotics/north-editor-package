@@ -1,0 +1,1 @@
+An Atom package that adds functionality needed to create and work on new ada_core and north_c9 projects.
