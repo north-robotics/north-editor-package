@@ -18,6 +18,11 @@
       "versions": {
         "^1.1.0": "consumePlatformioIDETerminal"
       }
+    },
+    "tool-bar": {
+      "versions": {
+        "^0 || ^1": "consumeToolbar"
+      }
     }
   }
 }
