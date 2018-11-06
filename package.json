@@ -1,7 +1,7 @@
 {
   "name": "north-editor-package",
   "main": "./lib/north-editor",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Adds functionality needed to create and work on new ada_core and north_c9 projects",
   "keywords": [],
   "repository": "git@github.com:north-robotics/north-editor-package.git",
