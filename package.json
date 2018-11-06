@@ -4,7 +4,7 @@
   "version": "0.4.4",
   "description": "Adds functionality needed to create and work on new ada_core and north_c9 projects",
   "keywords": [],
-  "repository": "git@github.com:north-robotics/north-editor-package.git",
+  "repository": "https://github.com/north-robotics/north-editor-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
